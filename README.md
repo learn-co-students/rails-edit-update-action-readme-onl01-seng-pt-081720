@@ -184,7 +184,7 @@ submitted. The `edit` and `update` functions are working properly!
 ## Extra Credit
 
 - When only one form element is updated, such as the `title`, does the
-  `description` also get updated?
+  `description` also get updated? 
 
 - How could we refactor this form code? You may notice that we have a form for the
   `new` and `edit` actions. Is there a better way of doing this?
